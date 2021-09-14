@@ -1,29 +1,34 @@
 ## Hovězí guláš
 
 ### Suroviny
-- cibule (o 100g více než masa - cca 600g a více)
-- 500g hovězí kližky nebo hovězího zadního
+- 1kg cibule (aspoň)
+- 750g hovězího zadního
 - 1l hovězího vývaru
-- 5 stroužků česneku
-- lžíce sádla a lžíce oleje
-- velká lžička mleté červené papriky
-- 3 bobkové listy
-- lžíce majoránky
-- cca 1/4 lžičky chilli
-- velká lžíce rajčatového protlaku (cca jedna malá plechovka)
-- půl lžíčky mletého kmínu
-- sůl
-- pepř
+- 1x lžíce rajčatového protlaku (70g konzerva)
+- 1x lžíce sádla
+- 1x lžíce oleje
+- 5x stroužek česneku
+- 3x bobkový list
+- 2x lžička mleté červené papriky
+- 2x lžička majoránky
+- 0,5x lžička chilli
+- 0,5x lžíčka mletého kmínu
+- 1x lžička soli
+- 0,5x lžička pepře
 
 ### Postup
-- nakrájíme si cibuli na drobno
-- očistíme a nakrájíme maso
-- rozpalíme hrnec s olejem a sádlem
-- orestujeme cibulku (cca 15 min - aby byla úplně hnědá!!)
-- přidáme maso a opečeme
-- poté přilijeme naběračku vývaru a přidáme protlak, chvilku smažíme (ztratí kyselost)
-- těsně před přilitím vývaru řpidáme papriku (aby smažením nezhořkla)
-- přilijeme asi polovinu vývaru
-- dáme zbytek koření
-- necháme asi 3 hodiny vařit (postupně přiléváme vývar)
-- pokud ani po 3 hodinách není maso měkké, vaříme dál
+- Nakrájíme cibuli na drobno
+- Rozpalíme hrnec s olejem a sádlem
+- Orestujeme cibuli (cca 15 min - dohněda)
+- Očistíme a nakrájíme maso na kostky
+- Přidáme maso do hrnce a osmažíme
+- Přidáme česnek
+- Přilijeme naběračku vývaru, přidáme rajčatový protlak, a chvilku pokračujeme ve smažení
+    - Protlak ztratí kyselost
+- Těsně před přilitím vývaru přidáme červenou papriku
+    - Delším smažením by zhořkla
+- Přilijeme zhruba polovinu vývaru
+- Přidáme zbytek koření, sůl a pepř
+- Necháme asi 3 hodiny vařit a postupně přiléváme vývar
+    - Pokud ani po 3 hodinách není maso měkké, vaříme dál
+    - Pokud je mále vývaru, přidáme další
