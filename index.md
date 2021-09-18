@@ -19,3 +19,4 @@
 - [Salat s horcicovo-medovou zalivkou](salat_s_horcicovo_medovou_zalivkou.md)
 - [Smetanove testoviny se slaninou a houbami](smetanove_testoviny_se_slaninou_a_houbami.md)
 - [Sushi](sushi.md)
+- [Veprovy stroganov](veprovy_stroganov.md)
