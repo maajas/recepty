@@ -1,4 +1,4 @@
-## Chicken Korai
+## Chicken korai
 
 ### Suroviny
 - 500g kuřecí/krůtí maso

@@ -1,4 +1,4 @@
-## Chicken Vindaloo
+## Chicken vindaloo
 
 ### Suroviny
 - 500g-750g kuřecí/krůtí maso

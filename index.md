@@ -1,22 +1,45 @@
-## Recepty
+## Dezerty
 
-- [Burgery](burgery.md)
-- [Butter chicken](butter_chicken.md)
-- [Chicken korai](chicken_korai.md)
-- [Chicken vindaloo](chicken_vindaloo.md)
-- [Chicken wraps](chicken_wraps.md)
-- [Cibulacka](cibulacka.md)
-- [Cibulove krouzky](cibulove_krouzky.md)
-- [Cookies](cookies.md)
-- [Dynova polevka](dynova_polevka.md)
-- [Hovezi gulas](hovezi_gulas.md)
-- [Hovezi steaky](hovezi_steaky.md)
-- [Jogurtova buchta](jogurtova_buchta.md)
-- [Kremove rizoto s rajcatovou omackou](kremove_rizoto_s_rajcatovou_omackou.md)
-- [Palacinky](palacinky.md)
-- [Pecena krkovice na cernem pivu](pecena_krkovice_na_cernem_pivu.md)
-- [Pizza](pizza.md)
-- [Salat s horcicovo-medovou zalivkou](salat_s_horcicovo_medovou_zalivkou.md)
-- [Smetanove testoviny se slaninou a houbami](smetanove_testoviny_se_slaninou_a_houbami.md)
-- [Sushi](sushi.md)
-- [Veprovy stroganov](veprovy_stroganov.md)
+- [Jogurtová buchta](dezerty/jogurtova_buchta.md)
+- [Palačinky](dezerty/palacinky.md)
+
+## Hlavní jídla
+
+- [Britská bolognská omáčka](hlavni_jidla/britska_bolognska_omacka.md)
+- [Burgery](hlavni_jidla/aburgery.md)
+- [Butter chicken](hlavni_jidla/butter_chicken.md)
+- [Červená kari omáčka](hlavni_jidla/cervena_kari_omacka.md)
+- [Chicken korai](hlavni_jidla/chicken_korai.md)
+- [Chicken vindaloo](hlavni_jidla/chicken_vindaloo.md)
+- [Chicken wraps](hlavni_jidla/chicken_wraps.md)
+- [Hovezi gulas](hlavni_jidla/hovezi_gulas.md)
+- [Hovezi steaky](hlavni_jidla/hovezi_steaky.md)
+- [Krémové rizoto s rajčatovou omáčkou](hlavni_jidla/kremove_rizoto_s_rajcatovou_omackou.md)
+- [Kuře na paprice](hlavni_jidla/kure_na_paprice.md)
+- [Losos se sýrovou omáčkou](hlavni_jidla/losos_se_syrovou_omackou.md)
+- [Pečená krkovice na černém pivu](hlavni_jidla/pecena_krkovice_na_cernem_pivu.md)
+- [Pizza](hlavni_jidla/pizza.md)
+- [Smetanové těstoviny se slaninou a houbami](hlavni_jidla/smetanove_testoviny_se_slaninou_a_houbami.md)
+- [Sushi](hlavni_jidla/sushi.md)
+- [Vepřová panenka s pepřovou omáčkou](hlavni_jidla/veprova_panenka_s_peprovou_omackou.md)
+- [Vepřový stroganov](hlavni_jidla/veprovy_stroganov.md)
+- [Závitky s hořčicovou omáčkou](hlavni_jidla/zavitky_s_horcicovou_omackou.md)
+
+## Polévky
+
+- [Cibulačka smetanová](polevky/cibulacka_smetanova.md)
+- [Cibulačka](polevky/cibulacka.md)
+- [Dýňová polévka](polevky/dynova_polevka.md)
+
+## Přílohy
+
+- [Parmazánové brambory](prilohy/parmazanove_brambory.md)
+
+## Saláty
+
+- [Salát s horčicovo-medovou zálivkou](salaty/salat_s_horcicovo_medovou_zalivkou.md)
+
+## Snacks
+
+- [Cibulové kroužky](snacks/cibulove_krouzky.md)
+- [Cookies](snacks/cookies.md)

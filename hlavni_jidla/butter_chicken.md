@@ -1,4 +1,4 @@
-## Butter Chicken
+## Butter chicken
 
 ### Suroviny
 - 500g-700g kuřecího/krůtího masa

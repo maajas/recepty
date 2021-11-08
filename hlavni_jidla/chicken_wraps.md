@@ -1,4 +1,4 @@
-## Chicken Wraps
+## Chicken wraps
 
 ### Suroviny
 - Tortily

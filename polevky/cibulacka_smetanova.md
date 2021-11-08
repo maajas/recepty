@@ -1,4 +1,4 @@
-## Cibulačka
+## Cibulačka smetanová
 
 ### Suroviny
 - cibule
