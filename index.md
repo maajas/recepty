@@ -8,7 +8,7 @@
 - [Britská bolognská omáčka](hlavni_jidla/britska_bolognska_omacka.md)
 - [Burgery](hlavni_jidla/aburgery.md)
 - [Butter chicken](hlavni_jidla/butter_chicken.md)
-- [Červená kari omáčka](hlavni_jidla/cervena_kari_omacka.md)
+- [Thajská kari omáčka](hlavni_jidla/thajska_kari_omacka.md)
 - [Chicken korai](hlavni_jidla/chicken_korai.md)
 - [Chicken vindaloo](hlavni_jidla/chicken_vindaloo.md)
 - [Chicken wraps](hlavni_jidla/chicken_wraps.md)
