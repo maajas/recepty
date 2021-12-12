@@ -19,6 +19,7 @@
 - [Krémové rizoto s rajčatovou omáčkou](hlavni_jidla/kremove_rizoto_s_rajcatovou_omackou.md)
 - [Kuře na paprice](hlavni_jidla/kure_na_paprice.md)
 - [Losos se sýrovou omáčkou](hlavni_jidla/losos_se_syrovou_omackou.md)
+- [Naše nudle](hlavni_jidla/nase_nudle.md)
 - [Pečená krkovice na černém pivu](hlavni_jidla/pecena_krkovice_na_cernem_pivu.md)
 - [Pizza](hlavni_jidla/pizza.md)
 - [Smetanové těstoviny se slaninou a houbami](hlavni_jidla/smetanove_testoviny_se_slaninou_a_houbami.md)
