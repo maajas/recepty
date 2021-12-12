@@ -1,3 +1,5 @@
+# Recepty
+
 ## Dezerty
 
 - [Jogurtová buchta](dezerty/jogurtova_buchta.md)
