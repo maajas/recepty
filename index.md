@@ -24,6 +24,7 @@
 - [Pizza](hlavni_jidla/pizza.md)
 - [Smetanové těstoviny se slaninou a houbami](hlavni_jidla/smetanove_testoviny_se_slaninou_a_houbami.md)
 - [Sushi](hlavni_jidla/sushi.md)
+- [Těstoviny se špenátem, sušenými rajčaty a trhaným masem](hlavni_jidla/testoviny_se_spenatem_a_susenymi_rajcaty.md)
 - [Vepřová panenka s pepřovou omáčkou](hlavni_jidla/veprova_panenka_s_peprovou_omackou.md)
 - [Vepřový stroganov](hlavni_jidla/veprovy_stroganov.md)
 - [Závitky s hořčicovou omáčkou](hlavni_jidla/zavitky_s_horcicovou_omackou.md)
