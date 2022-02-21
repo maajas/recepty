@@ -14,6 +14,7 @@
 - 3 lžičky nakládaného pepře
 - sůl, pepř
 - olivový olej
+
 ### Postup
 - Vyndáme si z lednice vepřovou panenku.
 - Omyjeme drátěnkou a nakrájíme brambory na 1 cm kolečka.
