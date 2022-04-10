@@ -25,7 +25,7 @@
 - [Smetanové těstoviny se slaninou a houbami](hlavni_jidla/smetanove_testoviny_se_slaninou_a_houbami.md)
 - [Sushi](hlavni_jidla/sushi.md)
 - [Těstoviny se špenátem a sušenými rajčaty](hlavni_jidla/testoviny_se_spenatem_a_susenymi_rajcaty.md)
-- [Vege kari s máslovou dýní](hlavni_jidla/Vege_kari_s_maslovou_dyni.md)
+- [Vege kari s máslovou dýní](hlavni_jidla/vege_kari_s_maslovou_dyni.md)
 - [Vepřová panenka s pepřovou omáčkou](hlavni_jidla/veprova_panenka_s_peprovou_omackou.md)
 - [Vepřový stroganov](hlavni_jidla/veprovy_stroganov.md)
 - [Závitky s hořčicovou omáčkou](hlavni_jidla/zavitky_s_horcicovou_omackou.md)
