@@ -1,5 +1,4 @@
-## Brownies s arašídovým máslem
-
+## Brownies
 ### Suroviny
 - 30 g hladké mouky
 - 150 g cukru krupice
