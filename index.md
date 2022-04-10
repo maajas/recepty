@@ -7,7 +7,7 @@
 
 ## Hlavní jídla
 
-- [Ricottový španát s batáty a trhaným kuřecím] (hlavni_jidla/bataty_s_ricottovym_spenatem.md)
+- [Ricottový špenát s batáty a trhaným kuřecím] (hlavni_jidla/bataty_s_ricottovym_spenatem.md)
 - [Britská bolognská omáčka](hlavni_jidla/britska_bolognska_omacka.md)
 - [Burgery](hlavni_jidla/aburgery.md)
 - [Butter chicken](hlavni_jidla/butter_chicken.md)
