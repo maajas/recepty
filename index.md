@@ -49,3 +49,4 @@
 
 - [Cibulové kroužky](snacks/cibulove_krouzky.md)
 - [Cookies](snacks/cookies.md)
+- [Lilková pomazánka](snacks/lilkova_pomazanka.md)
