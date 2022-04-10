@@ -1,7 +1,7 @@
 # Recepty
 
 ## Dezerty
-- [Brownies s arašídovým máslem](brownies.md)
+- [Brownies s arašídovým máslem](dezerty/brownies.md)
 - [Jogurtová buchta](dezerty/jogurtova_buchta.md)
 - [Palačinky](dezerty/palacinky.md)
 
