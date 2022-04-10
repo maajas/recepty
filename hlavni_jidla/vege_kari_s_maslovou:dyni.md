@@ -1,5 +1,5 @@
 
-## Vege kari s máslovou dzní
+## Vege kari s máslovou dýní
 
 ### Suroviny
 - olej na smažení
