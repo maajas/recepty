@@ -3,10 +3,10 @@
 ### Suroviny
 - 500g-700g kuřecího/krůtího masa
 - 500g rajčat
-- rajčatový protlak
-- 75g zázvor
+- rajčatový protlak (malá plechovka)
+- 50g čerstvý zázvor nebo lžička sušeného (sušený není tak štiplavý)
 - 250g cibule
-- 50g česnek
+- 50g česnek nebo 2 lžičky sušeného
 - 250ml smetana ke šlehání
 - 150g bílý jogurt
 - 4x lžička garam masala
@@ -34,18 +34,21 @@
 - 0,5x lžička kajensky pepř
 - Sůl
 
+### Cibule
+- Cibule pokrájím a dám smažit do zhnědnutí (ztratí tím štiplavou chuť)
+
 ### Rozmixovat směs
 - Rozmixovat na jemnou směs
 - 500g rajčata
     - pokud nemají příliš chuť přidat rajčatový protlak
-- 75g zázvoru
-- 250g cibule
-    - volitelné
-- 50g česnek
+- 75g zázvoru nebo lžička sušeného
+- 250g osmažené cibule
+- 50g česnek nebo 2 lžičky sušeného
 - 150g bílého jogurtu
 - 1x lžička kurkuma
 - 0,5x lžička chilli
 - Sůl
+- lžíce cukru
 
 ### Dále
 - Směs dát do hrnce na plotně nechat "probublávat" 5-8 minut
