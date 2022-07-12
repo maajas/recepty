@@ -7,6 +7,7 @@
 
 ## Hlavní jídla
 
+- [Ikea kuličky s omáčkou](hlavni_jidla/ikea_kulicky_s_omackou.md)
 - [Ricottový špenát s batáty a trhaným kuřecím](hlavni_jidla/bataty_s_ricottovym_spenatem.md)
 - [Britská bolognská omáčka](hlavni_jidla/britska_bolognska_omacka.md)
 - [Burgery](hlavni_jidla/aburgery.md)
