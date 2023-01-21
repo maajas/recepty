@@ -38,6 +38,7 @@
 - [Cibulačka smetanová](polevky/cibulacka_smetanova.md)
 - [Cibulačka](polevky/cibulacka.md)
 - [Dýňová polévka](polevky/dynova_polevka.md)
+- [Polévka z červené čočky](polevky/polevka_z_cervene_cocky.md)
 
 ## Přílohy
 
