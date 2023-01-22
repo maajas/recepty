@@ -44,6 +44,7 @@
 ## Přílohy
 
 - [Parmazánové brambory](prilohy/parmazanove_brambory.md)
+- [Smetanové brambory](prilohy/smetanove_brambory.md)
 
 ## Saláty
 
