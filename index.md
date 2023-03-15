@@ -41,7 +41,7 @@
 - [Dýňová polévka](polevky/dynova_polevka.md)
 - [Polévka z červené čočky](polevky/polevka_z_cervene_cocky.md)
 - [Sladká smetanová bramboračka](polevky/sladka_bramboracka.md)
-- [Frankfurtská polévka](polevky/franfurtska_polevka.md)
+- [Frankfurtská polévka](polevky/frankfurtska_polevka.md)
 
 ## Přílohy
 
