@@ -22,6 +22,6 @@
 4. K osmažené cibuli přidat nakrájené párky, bobkové listy a nové koření a chvilku smažit.
 5. Zasypat 2 lžícemi mouky, lžičkou sladké a lžičkou uzené papriky.
 6. Přilít vývar, přidat brambory a promíchat.
-7. Vaříme asi 15. minut. 
+7. Vaříme asi 15 minut. 
 8. Nakonec přilejeme smetanu, přidáme petrželku.
 9. Dochutíme solí a pepřem.  
