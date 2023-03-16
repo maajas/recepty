@@ -52,6 +52,8 @@
 
 - [Salát s horčicovo-medovou zálivkou](salaty/salat_s_horcicovo_medovou_zalivkou.md)
 
+## Snídaně
+
 ## Snacks
 
 - [Cibulové kroužky](snacks/cibulove_krouzky.md)
