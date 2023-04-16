@@ -1,3 +1,3 @@
 # Recepty
 
-- [vdusek.github.io/recepty](https://vdusek.github.io/recepty/)
+- [maajas.github.io/recepty](https://maajas.github.io/recepty/)
