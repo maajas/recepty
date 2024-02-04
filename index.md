@@ -29,7 +29,6 @@
 - [Sushi](hlavni_jidla/sushi.md)
 - [Těstoviny se špenátem a sušenými rajčaty](hlavni_jidla/testoviny_se_spenatem_a_susenymi_rajcaty.md)
 - [Trhané vepřové/hovězí maso](hlavni_jidla/trhane_veprove_maso.md)
-- [Turecká vejce](hlavni_jidla/turecka_vejce.md)
 - [Vege kari s máslovou dýní](hlavni_jidla/vege_kari_s_maslovou_dyni.md)
 - [Vepřová panenka s pepřovou omáčkou](hlavni_jidla/veprova_panenka_s_peprovou_omackou.md)
 - [Vepřový stroganov](hlavni_jidla/veprovy_stroganov.md)
@@ -55,6 +54,8 @@
 - [Salát s horčicovo-medovou zálivkou](salaty/salat_s_horcicovo_medovou_zalivkou.md)
 
 ## Snídaně
+
+- [Turecká vejce](snidane/turecka_vejce.md)
 
 ## Snacks
 
