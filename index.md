@@ -43,7 +43,7 @@
 - [Sladká smetanová bramboračka](polevky/sladka_bramboracka.md)
 - [Frankfurtská polévka](polevky/frankfurtska_polevka.md)
 - [Čočková polévka](polevky/cockova_polevka.md)
-- [Mrkvová polévka s kari](polevky/mrkvova_polevka.md)
+- [Mrkvová polévka s kari](polevky/mrkvova_polevka_s_kari.md)
 
 ## Přílohy
 
