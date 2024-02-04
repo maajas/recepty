@@ -14,7 +14,7 @@
 - 0,5 lžičy muškátového oříšku
 - sůl, pepř, cukr
 
-  ### Postup
+### Postup
   1. Nakrájíme cibuli na malé kostičky a osmažíme na oleji do sklovita.
   2. Přidáme 150g čočky, bobkové listy, nové koření a rozdrcené 3 stroužky česneku. Minutu smažíme.
   3. Zalejeme vývarem/vodou, přidáme švěstky a necháme vařit do změknutí čočky - cca 15-20 minut.
