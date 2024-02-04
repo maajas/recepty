@@ -16,6 +16,7 @@
 - [Chicken korai](hlavni_jidla/chicken_korai.md)
 - [Chicken vindaloo](hlavni_jidla/chicken_vindaloo.md)
 - [Chicken wraps](hlavni_jidla/chicken_wraps.md)
+- [Dhal s arašídovým máslem](hlavni_jidla/dhal_s_arasidovym_maslem.md)
 - [Hovězí guláš](hlavni_jidla/hovezi_gulas.md)
 - [Hovězí steaky](hlavni_jidla/hovezi_steaky.md)
 - [Krémové rizoto s rajčatovou omáčkou](hlavni_jidla/kremove_rizoto_s_rajcatovou_omackou.md)
