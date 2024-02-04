@@ -43,6 +43,7 @@
 - [Polévka z červené čočky](polevky/polevka_z_cervene_cocky.md)
 - [Sladká smetanová bramboračka](polevky/sladka_bramboracka.md)
 - [Frankfurtská polévka](polevky/frankfurtska_polevka.md)
+- [Čočková polévka](polevky/cockova_polevka.md)
 
 ## Přílohy
 
